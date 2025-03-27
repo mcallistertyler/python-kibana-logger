@@ -26,3 +26,6 @@ class JsonLogger:
 
 
 logger = JsonLogger(log)
+info = logger.info
+warning = logger.warning
+error = logger.error

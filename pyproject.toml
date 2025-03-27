@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "python-logger"
+name = "python_logger"
 version = "0.1.0"
 description = "Easy to import logger for fraud python applications."
 authors = ["tyler <tytheguy95@gmail.com>"]
